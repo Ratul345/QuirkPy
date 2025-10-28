@@ -167,6 +167,20 @@ QuirkPy/
 
 ## 🤝 **Join the Revolution**
 
+### 🌟 **First-Time Contributors Welcome!**
+[![Good First Issue](https://img.shields.io/badge/good%20first%20issue-welcome-brightgreen.svg)](https://github.com/Ratul345/QuirkPy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[![No Experience Needed](https://img.shields.io/badge/experience-none%20needed-blue.svg)](CONTRIBUTING.md)
+
+**Never contributed to open source? Perfect!** We're beginner-friendly and here to help.
+
+#### 🎯 Super Easy First Contributions:
+1. **Add a Bangla word** to `ml_modules/chaos_engine.py` (takes 2 minutes!)
+2. **Suggest a meme idea** in Issues
+3. **Fix a typo** in documentation
+4. **Share your experience** in Discussions
+
+👉 **Look for issues labeled `good first issue`** - they're designed for you!
+
 ### **GitHub Links**
 - 🔗 **Repository**: [Ratul345/QuirkPy](https://github.com/Ratul345/QuirkPy)
 - 🐛 **Issues**: [Report bugs or suggest features](https://github.com/Ratul345/QuirkPy/issues)
@@ -178,13 +192,17 @@ QuirkPy/
 - 📸 **Instagram**: Post your AI-generated memes
 - 🎥 **YouTube**: Tutorial videos for Bangla AI
 
-## 🏆 **Success Stories**
+## 🏆 **Hall of Fame - Our Contributors**
 
-**"From chaos to conference"** - Our first contributor used QuirkPy's Bangla dataset in their NLP research paper!
+Every contribution matters! Here's our growing community:
 
-**"Meme to mainstream"** - AI-generated Bangla memes now used by 3 Bangladeshi content creators!
+<!-- Add your name here after your first PR! -->
+- **[Your Name Here]** - Waiting for your first contribution! 🌟
 
-**"Student to scientist"** - A Dhaka University student built their first ML model using our tools!
+**Success Stories:**
+- **"From chaos to conference"** - Our first contributor used QuirkPy's Bangla dataset in their NLP research paper!
+- **"Meme to mainstream"** - AI-generated Bangla memes now used by 3 Bangladeshi content creators!
+- **"Student to scientist"** - A Dhaka University student built their first ML model using our tools!
 
 ## 📄 **License & Freedom**
 
